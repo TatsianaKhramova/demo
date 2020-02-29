@@ -1,5 +1,6 @@
 Yesterday
 all my troubles seemed so far away,
+<<<<<<< HEAD
 Now it looks as though they're here to stay.
 Oh, I believe in yesterday.
 
@@ -17,3 +18,5 @@ no content
 
 no
 >>>>>>> a7d5ef2ec14e0b9b639b1f1bf0ca4efc1f495f38
+=======
+>>>>>>> parent of 34bc087... new one
