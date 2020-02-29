@@ -6,9 +6,14 @@ Oh, I believe in yesterday.
 Suddenly
 I'm not half the man I used to be,
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 ------------
 =======
 >>>>>>> 176dafa9af16e85ecf77044053064ae792d6fc9f
 
 no content
+=======
+
+no
+>>>>>>> a7d5ef2ec14e0b9b639b1f1bf0ca4efc1f495f38
